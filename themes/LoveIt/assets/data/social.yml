@@ -569,13 +569,13 @@ rootme:
   Icon:
     Src: svg/icons/rootme.svg
 
-# Phone
-phone:
-  Weight: 98
-  Template: tel:%v
-  Title: Phone
-  Icon:
-    Class: fas fa-phone fa-fw
+## Phone
+# phone:
+#   Weight: 98
+#   Template: tel:%v
+#   Title: Phone
+#   Icon:
+#     Class: fas fa-phone fa-fw
 
 # Email
 email:
